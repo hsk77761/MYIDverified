@@ -87,7 +87,7 @@ To get you coding in just a few minutes, GitHub Codespaces provides a web-based 
 
 ## Contributing
 
-Mastodon is **free, open-source software** licensed under **AGPLv3**.
+MYIDverified & MYIDanonymous is **free, open-source software** licensed under **AGPLv3**.
 
 You can open issues for bugs you've found or features you think are missing. You can also submit pull requests to this repository or submit translations using Crowdin. 
 
