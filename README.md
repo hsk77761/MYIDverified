@@ -1,6 +1,6 @@
 
 
-MYIDverified & MYIDanonymous is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video. All MYIDverified & MYIDanonymous servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-MYIDverified & MYIDanonymous software that implements ActivityPub!)
+MYIDverified & MYIDanonymous is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On MYIDverified & MYIDanonymous, users can publish anything they want: links, pictures, text, and video. All MYIDverified & MYIDanonymous servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-MYIDverified & MYIDanonymous software that implements ActivityPub!)
 
 
 
