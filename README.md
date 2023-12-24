@@ -58,7 +58,7 @@ To set up **MacOS** for native development, complete the following steps:
 - Run `brew install redis`
 - Run `brew install imagemagick`
 - Install Foreman or a similar tool (such as [overmind](https://github.com/DarthSim/overmind)) to handle multiple process launching.
-- Navigate to Mastodon's root directory and run `brew install nvm` then `nvm use` to use the version from .nvmrc
+- Navigate to MYIDverified or MYIDanonymous' root directory and run `brew install nvm` then `nvm use` to use the version from .nvmrc
 - Run `corepack enable && yarn set version classic`
 - Run `bundle exec rails db:setup` (optionally prepend `RAILS_ENV=development` to target the dev environment)
 - Finally, run `overmind start -f Procfile.dev`
@@ -82,7 +82,7 @@ To get you coding in just a few minutes, GitHub Codespaces provides a web-based 
   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=52281283&devcontainer_path=.devcontainer%2Fcodespaces%2Fdevcontainer.json)
 - Wait for the environment to build. This will take a few minutes.
 - When the editor is ready, run `foreman start -f Procfile.dev` in the terminal.
-- After a few seconds, a popup will appear with a button labeled _Open in Browser_. This will open Mastodon.
+- After a few seconds, a popup will appear with a button labeled _Open in Browser_. This will open MYIDverified or MYIDanonymous.
 - On the _Ports_ tab, right click on the “stream” row and select _Port visibility_ → _Public_.
 
 ## Contributing
