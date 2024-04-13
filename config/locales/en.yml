@@ -1,7 +1,7 @@
 ---
 en:
   about:
-    about_mastodon_html: 'The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with Mastodon!'
+    about_MYID_html: 'The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with MYID!'
     contact_missing: Not set
     contact_unavailable: N/A
     hosted_on: MYIDverified Social Network hosted on %{domain}
@@ -736,23 +736,23 @@ en:
         rules_hint: There is a dedicated area for rules that your users are expected to adhere to.
         title: About
       appearance:
-        preamble: Customize Mastodon's web interface.
+        preamble: Customize MYID's web interface.
         title: Appearance
       branding:
-        preamble: Your server's branding differentiates it from other servers in the network. This information may be displayed across a variety of environments, such as Mastodon's web interface, native applications, in link previews on other websites and within messaging apps, and so on. For this reason, it is best to keep this information clear, short and concise.
+        preamble: Your server's branding differentiates it from other servers in the network. This information may be displayed across a variety of environments, such as MYID's web interface, native applications, in link previews on other websites and within messaging apps, and so on. For this reason, it is best to keep this information clear, short and concise.
         title: Branding
       captcha_enabled:
         desc_html: This relies on external scripts from hCaptcha, which may be a security and privacy concern. In addition, <strong>this can make the registration process significantly less accessible to some (especially disabled) people</strong>. For these reasons, please consider alternative measures such as approval-based or invite-based registration.
         title: Require new users to solve a CAPTCHA to confirm their account
       content_retention:
-        preamble: Control how user-generated content is stored in Mastodon.
+        preamble: Control how user-generated content is stored in MYID.
         title: Content retention
       default_noindex:
         desc_html: Affects all users who have not changed this setting themselves
         title: Opt users out of search engine indexing by default
       discovery:
         follow_recommendations: Follow recommendations
-        preamble: Surfacing interesting content is instrumental in onboarding new users who may not know anyone Mastodon. Control how various discovery features work on your server.
+        preamble: Surfacing interesting content is instrumental in onboarding new users who may not know anyone MYID. Control how various discovery features work on your server.
         profile_directory: Profile directory
         public_timelines: Public timelines
         publish_discovered_servers: Publish discovered servers
@@ -1014,7 +1014,7 @@ en:
     discovery: Discovery
     localization:
       body: MYIDverified Social Network is translated by volunteers.
-      guide_link: https://crowdin.com/project/mastodon
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Everyone can contribute.
     sensitive_content: Sensitive content
   application_mailer:
@@ -1044,7 +1044,7 @@ en:
     delete_account: Delete account
     delete_account_html: If you wish to delete your account, you can <a href="%{path}">proceed here</a>. You will be asked for confirmation.
     description:
-      prefix_invited_by_user: "@%{name} invites you to join this server of Mastodon!"
+      prefix_invited_by_user: "@%{name} invites you to join this server of MYID!"
       prefix_sign_up: Sign up on MYIDverified Social Network today!
       suffix: With an account, you will be able to follow people, post updates and exchange messages with users from any MYIDverified Social Network server and more!
     didnt_get_confirmation: Didn't receive a confirmation link?
@@ -1733,7 +1733,7 @@ en:
   themes:
     contrast: MYIDverified Social Network (High contrast)
     default: MYIDverified Social Network (Dark)
-    mastodon-light: MYIDverified Social Network (Light)
+    MYID-light: MYIDverified Social Network (Light)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1819,7 +1819,7 @@ en:
       final_step: 'Start posting! Even without followers, your public posts may be seen by others, for example on the local timeline or in hashtags. You may want to introduce yourself on the #introductions hashtag.'
       full_handle: Your full handle
       full_handle_hint: This is what you would tell your friends so they can message or follow you from another server.
-      subject: Welcome to Mastodon
+      subject: Welcome to MYID
       title: Welcome aboard, %{name}!
   users:
     follow_limit_reached: You cannot follow more than %{limit} people
